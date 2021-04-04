@@ -2,7 +2,7 @@
 
 ## Table of Contents
 ---
-* Demo
+* Demo 
 * Overview
 * Motivation
 * Technical Inspection
